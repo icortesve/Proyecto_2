@@ -8,6 +8,7 @@
 # Bloquear carpetas de datos comunes (si las tienes separadas)
 data/
 datasets/
+*.csv
 
 # Archivos temporales de Jupyter Notebooks
 .ipynb_checkpoints/
