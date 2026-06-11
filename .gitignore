@@ -1,0 +1,14 @@
+# Bloquear archivos de datos pesados
+*.csv
+*.parquet
+*.xlsx
+*.zip
+*.tar.gz
+
+# Bloquear carpetas de datos comunes (si las tienes separadas)
+data/
+datasets/
+
+# Archivos temporales de Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
